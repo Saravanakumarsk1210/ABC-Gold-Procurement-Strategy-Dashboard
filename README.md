@@ -39,6 +39,8 @@ This solution combines **data science**, **visualization**, and **machine learni
 - One-hot encoding  
 - Type casting and formatting
 
+![preprocessing](https://drive.google.com/uc?export=view&id=1g0VZAMd1BiNr4XxmKlB29sHPJhPj79WH)
+
 ---
 
 ## 📈 Exploratory Data Analysis (EDA)
@@ -91,6 +93,8 @@ Built in `ABC_Gold_Insights.pbix`, this dynamic dashboard offers:
 - 🧊 Cluster-based customer segments  
 - 📦 Transaction patterns & pricing insights  
 - 🧠 Actionable KPIs for procurement decisions
+
+![Sales Dashboard](https://drive.google.com/uc?export=view&id=1lIFMqXEHvqS3B_j09_v4HjX4M7zuhD7j)
 
 ---
 
