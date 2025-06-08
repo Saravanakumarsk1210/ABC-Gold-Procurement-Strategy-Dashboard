@@ -104,7 +104,7 @@ Built in `ABC_Gold_Insights.pbix`, this dynamic dashboard offers:
 | `Trend_and_Pattern_Analysis.ipynb` | EDA and visual analysis |
 | `ML models.ipynb` | Predictive modeling and risk analysis |
 | `ABC_Gold_Insights.pbix` | Power BI Dashboard |
-| `TEAM 16.pdf` | Project summary report |
+| `Project report.pdf` | Project summary report |
 
 ---
 
