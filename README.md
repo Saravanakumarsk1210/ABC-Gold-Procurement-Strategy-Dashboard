@@ -1,5 +1,5 @@
 
-# 🪙 ABC Gold – Procurement Strategy Dashboard (2024–2025)
+# 🪙 ABC Gold – Procurement Strategy Dashboard (2024–2025) 
 
 > **Tools Used**: Python, Pandas, Plotly, Scikit-learn, Statsmodels, Power BI  
 > **Dataset Sources**: Internal sales data, gold market prices, GoldBees ETF data
